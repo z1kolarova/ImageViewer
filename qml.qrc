@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file alias="menu_icon">menu_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file alias="settings_icon">settings_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file alias="settings_full_icon">settings_FILL1_wght400_GRAD0_opsz48.png</file>
+        <file>catloaf.jpg</file>
+        <file>kockabila.jpg</file>
+        <file>kote1.jfif</file>
+    </qresource>
+</RCC>
